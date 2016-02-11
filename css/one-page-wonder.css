@@ -7,13 +7,14 @@
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
-
+body {overflow-x: hidden;}
 .header-image {
     /*display: block;*/
     width: 100%;
     text-align: center;
     /*background: url('') no-repeat center center scroll;*/
-    /*background: url('../images/board.jpg') no-repeat center center scroll;
+    /*
+    background: url('../images/board.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
