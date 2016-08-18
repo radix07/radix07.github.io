@@ -1,4 +1,4 @@
 Embedded Data Solutions
 =========================
 
-[embeddeddatasolutions.com] (embeddeddatasolutions.com)
+[embeddeddatasolutions.com] (http://embeddeddatasolutions.com)
